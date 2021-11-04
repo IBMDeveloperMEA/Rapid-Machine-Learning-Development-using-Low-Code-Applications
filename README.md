@@ -1,4 +1,4 @@
-# Data Science Lifecycle: Collect, Clean, Predict &amp; Analyze your Data
+# Rapid Machine Learning Development using Low Code Applications
 
 ## Workshop Resources
 
