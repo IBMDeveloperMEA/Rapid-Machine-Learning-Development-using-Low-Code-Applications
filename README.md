@@ -25,7 +25,7 @@
 	* [Step 11. Test the model](#step-11-test-the-model)
 1. [Workshop Resources](#workshop-resources-1)
 1. [Reference Links](#reference-links)
-1. [Done with the workshop? Here are some things you can try further](#done-with-the-workshop--here-are-some-things-you-can-try-further)
+1. [Done with the workshop? Here are some things you can try further](#done-with-the-workshop-here-are-some-things-you-can-try-further)
 1. [Workshop Speakers](#workshop-speakers)
 
 ## Prerequisites
