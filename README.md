@@ -84,10 +84,10 @@ To create a Watson Machine Learning instance, search for Machine Learning and cr
 ### Step 4. Download/Clone the repository
 
 ``` 
-git clone https://github.com/IBMDeveloperMEA/Data-Science-Lifecycle-Collect-Clean-Predict-Analyze-your-Data
+git clone https://github.com/IBMDeveloperMEA/Rapid-Machine-Learning-Development-using-Low-Code-Applications
 ```
 
-To download this repository, click [here](https://github.com/IBMDeveloperMEA/Data-Science-Lifecycle-Collect-Clean-Predict-Analyze-your-Data/archive/refs/heads/main.zip) Or click on the green code icon, and download the ZIP file. You will need the repository for the data that is required for this tutorial.
+To download this repository, click [here](https://github.com/IBMDeveloperMEA/Rapid-Machine-Learning-Development-using-Low-Code-Applications/archive/refs/heads/main.zip) Or click on the green code icon, and download the ZIP file. You will need the repository for the data that is required for this tutorial.
 
 ![Download](/images/download_repo.png)
 
