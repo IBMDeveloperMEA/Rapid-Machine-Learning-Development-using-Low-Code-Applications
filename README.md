@@ -2,13 +2,11 @@
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: 
+- Login/Sign Up for IBM Cloud: https://ibm.biz/RapidML
   
-- Hands-On Guide: 
+- Hands-On Guide: https://ibm.biz/RapidML-HandsOn
 
-- Slides:  
-
-- Workshop Replay: 
+- Slides: https://ibm.biz/RapidML-Slides
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -34,9 +32,9 @@
   
 ### **Sign-up/Login to IBM Cloud**
 
-If you are an existing user please [login to IBM Cloud](https://cloud.ibm.com/registration?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-theafricanapplaunchpadaal-eventid-617943745a388dd980411c58-global-devadvgrp-dubai-franchise-conference-cairo)
+If you are an existing user please [login to IBM Cloud](https://cloud.ibm.com/registration/trial?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-theafricanapplaunchpadaal-eventid-617943745a388dd980411c58-global-devadvgrp-dubai-franchise-conference-cairo)
 
-And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://cloud.ibm.com/registration?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-theafricanapplaunchpadaal-eventid-617943745a388dd980411c58-global-devadvgrp-dubai-franchise-conference-cairo): <br>
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://cloud.ibm.com/registration/trial?utm_medium=Inpersondirected&utm_content=000039JL&utm_term=10010797&utm_id=Nov2021-theafricanapplaunchpadaal-eventid-617943745a388dd980411c58-global-devadvgrp-dubai-franchise-conference-cairo): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
@@ -343,13 +341,11 @@ IBM Cloud Pak for Data as a Service offers tools to quickly test out Watson mach
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: 
+- Login/Sign Up for IBM Cloud: https://ibm.biz/RapidML
   
-- Hands-On Guide: 
+- Hands-On Guide: https://ibm.biz/RapidML-HandsOn
 
-- Slides: 
-
-- Workshop Replay: 
+- Slides: https://ibm.biz/RapidML-Slides
 
 ## Reference Links
 
