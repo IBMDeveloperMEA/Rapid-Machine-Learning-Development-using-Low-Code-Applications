@@ -184,6 +184,24 @@ You have now cleaned and modified your data, let's move on to the next step!
 
 ![autoai_conf](/images/autoai_conf.png)
 
+----------------------------------------------------------------------------
+** In the case where you don't have a machine learning service associated**
+ 
+ 1. Click on ```Associate a Machine Learning service instance```
+
+ ![associateML1](/images/associate1.png)
+
+ 2. Create the machine learning instance and you should see it appear as such 
+
+ ![associateML2](/images/associate2.png)
+
+ 3. Select the service and associate it
+
+ ![assocoateML3](/images/associate3.png)
+
+ You should now see the service associated to your experiement as shown above.
+----------------------------------------------------------------------------
+ 
  3. To configure the experiment, we must give it the dataset to use. Click on the **Select from project** option.
 
 ![Add dataset to AutoAI](/images/data_source.png)
